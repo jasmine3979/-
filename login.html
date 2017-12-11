@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="renderer" content="webkit">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>登录 - 爱福窝</title>
+    <meta name="keywords" content="登录"/>
+    <meta name="description" content="登录"/>
+    <meta http-equiv="Cache-Control" content="no-transform"/>
+    <meta http-equiv="Cache-Control" content="no-siteapp"/>
+    <link rel="shortcut icon" href="http://static.fuwo.com/static/images/new/common/icon/favicon32.ico?v=20160103"/>
+    <link rel="stylesheet" type="text/css" href="style/base.css">
+    <link rel="stylesheet" type="text/css" href="style/sign.css">
+    <script>
+        window.g_config = {};
+    </script>
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://static.fuwo.com/static/js/new/lib/html5shiv.min.js?v=20160103"></script>
+    <script src="http://static.fuwo.com/static/js/new/lib/respond.min.js?v=20160103"></script>
+    <![endif]-->
+
+
+</head>
+
+<body class="">
+
+
+<!-- content start -->
+<section id="section" class="fuwo-sign">
+    <a href="index.html"><i class="icon-logo"><img src="images/logo.png" width="128"></i></a>
+    <div class="sign-wrap">
+        <div class="top-tab"><a href="javascript:;" class="tab-opt active">微信登录</a><a href="javascript:;"
+                                                                                      class="tab-opt">账号登录</a></div>
+        <div class="tab-panels">
+            <div class="tab-panel weixin-panel" style="display:block;">
+            	<div id="open_weixin" class="open-weixin">
+                	<div class="qr-code">
+                    	<div class="qr-img">
+                        	<div class="qr-refresh-mask">
+                            	<img src="images/seco_code.jpg" alt="" id="weixin_img_code" style="display:inline" width="222" height="222">
+                                <img src="images/img_code_h.jpg" alt="" id="weixin_img_codeh" style="display:none">
+                            </div>
+                        </div>
+                        <div class="tip-text J-Tip" style="display:none">
+                        	<p class="til">微信扫码，快速登录</p>
+                            <a href="javascript" class="tip-help" id="weixin_tip_help"> 使用帮助</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-panel form-panel">
+                <form class="login-form" id="login_form">
+                    <div class="form">
+                        <div class="inputline-wrap">
+                            <div class="inputline">
+                                <p class="input"><input class="control" id="sign_username" name="username" type="text"
+                                                        autocomplete="off" placeholder="手机号/邮箱"><i
+                                        class="icon share-icon-user"></i></p>
+                            </div>
+                            <div class="inputline">
+                                <p class="input"><input class="control" id="sign_pwd" name="pwd" type="password"
+                                                        autocomplete="off" placeholder="密码"><i
+                                        class="icon share-icon-password"></i></p>
+                            </div>
+                        </div>
+                        <div class="inputline margin-bottom-20">
+                            <p class="float-left"><label class="rem"><input class="rem_i" id="sign_remember"
+                                                                            type="checkbox"> 记住我</label></p>
+                            <a href="http://www.fuwo.com/sign/reset_password/" class="float-right">忘记密码？</a>
+                        </div>
+                        <div class="btn-box">
+                            <span class="btn btn-success" id="sign_submit">登录</span>
+                        </div>
+                    </div>
+                </form>
+                <div class="open-login f12">
+                    <a class="qq" href="/account/qz/req_auth/?next=http://www.fuwo.com/"><i
+                            class="icon share-icon-qq"></i>QQ</a>
+                    <a class="weibo" href="/account/sina/req_auth/?next=http://www.fuwo.com/"><i
+                            class="icon share-icon-blog"></i>微博</a>
+                    <a class="taobao" href="/account/taobao/req_auth/?next=http://www.fuwo.com/"><i
+                            class="icon share-icon-taobao"></i>淘宝</a>
+                    <a class="float-right sign" href="register.html">免费注册</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input type="hidden" id="next_to" value="http://www.fuwo.com/"/>
+
+</section>
+<!-- content end -->
+<!-- footer start -->
+<!-- footer end -->
+<script>
+    <!-- 百度统计配置 -->
+    var baiduRequired = true;
+    var baiduSrc = "//hm.baidu.com/hm.js?33cccdc5053e63761f8cc621c1577839";
+</script>
+
+<script>
+    window.g_config.disableWeihuNotice = false;
+    window.g_config.disableActivityNotice = true;
+    window.g_config.staticHost = 'static.fuwo.com'; // 静态文件域名，用于js里面控制图片等静态文件的访问地址
+    var require = {
+        urlArgs: 'v=0062v29'
+    };
+
+    window.UEDITOR_HOME_URL = "http://static.fuwo.com/static/js/new/lib/";
+</script>
+<script>
+    var dayCount = 694,
+            monthCount = 64041;
+</script>
+
+
+<script data-main="http://static.fuwo.com/static/js/new/sign/signin.js?v=0062v29"
+        src="http://static.fuwo.com/static/js/new/lib/require.js?v=0062v29"></script>
+</body>
+</html>

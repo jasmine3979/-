@@ -1,0 +1,129 @@
+@charset "UTF-8";
+body {
+    background: #e9eaec;
+    font: 14px/1.5 "microsoft yahei", "宋体", tahoma, arial, "\5b8b\4f53"
+}
+
+ul li {
+    float: left
+}
+
+.fl {
+    float: left
+}
+
+.banner {
+    text-align: center
+}
+
+.supervision {
+    background: #fbfbfb;
+    text-align: center
+}
+
+.supervision .supervisor-font {
+    margin-top: 76px;
+    margin-bottom: 40px
+}
+
+.supervision .arrow {
+    background: url(../images/supervisor_up.png) no-repeat;
+    display: block;
+    height: 25px;
+    margin: 0 auto;
+    width: 50px
+}
+
+.supervision .supervision-detail {
+    background: #fbfbfb;
+    border: 1px dotted #34b094;
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    font-size: 18px;
+    height: 140px;
+    margin: 34px 25px 50px 15px;
+    width: 280px
+}
+
+.supervision .supervision-detail i {
+    color: #34b094;
+    display: block;
+    padding-top: 33px;
+    padding-bottom: 10px
+}
+
+.service {
+    text-align: center;
+    background: #fff
+}
+
+.service .service-img {
+    margin-top: 64px
+}
+
+.service .service-num {
+    color: #666;
+    font-size: 16px;
+    margin-top: 42px
+}
+
+.service .service-num .num-detail {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    padding: 0 100px
+}
+
+.service .service-num .num-detail span {
+    color: #333;
+    display: block;
+    padding-bottom: 5px
+}
+
+.service .service-num i {
+    font-size: 48px
+}
+
+.service .service-num em {
+    font-size: 20px
+}
+
+.num-time {
+    color: #999;
+    display: block;
+    font-size: 20px;
+    padding-top: 57px;
+    padding-bottom: 50px
+}
+
+.specialty {
+    background: #fbfbfb;
+    text-align: center
+}
+
+.specialty span {
+    display: block
+}
+
+.specialty .specialty-first {
+    font-size: 36px;
+    padding-top: 76px;
+    padding-bottom: 34px
+}
+
+.specialty .specialty-second {
+    color: #666;
+    font-size: 18px;
+    padding-bottom: 50px
+}
+
+.specialty .specialty-img {
+    padding-bottom: 60px
+}
+
+.specialty .specialty-img img {
+    margin-left: 20px;
+    margin-right: 10px
+}
+

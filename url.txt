@@ -1,0 +1,13 @@
+﻿首页  index.html
+
+在线报价	price.html
+
+服务保证  server.html
+
+效果图    viewimg.html
+
+装修学堂   xuetang.html
+
+设计与报价  zb.html
+
+装修公司   ltd.html

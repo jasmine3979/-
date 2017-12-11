@@ -1,0 +1,430 @@
+@charset "utf-8";
+.sjbjshare-sprite, .sjbjshare-icon-01, .sjbjshare-icon-02, .sjbjshare-icon-03, .sjbjshare-icon-04, .sjbjshare-icon-05, .sjbjshare-icon-06, .sjbjshare-icon-07, .sjbjshare-icon-08, .sjbjshare-icon-09, .sjbjshare-icon-10, .sjbjshare-icon-11, .sjbjshare-icon-12, .sjbjshare-icon-13, .sjbjshare-icon-14, .sjbjshare-icon-15, .sjbjshare-icon-c1, .sjbjshare-icon-c2, .sjbjshare-icon-c3, .sjbjshare-icon-c4, .sjbjshare-icon-c5, .sjbjshare-icon-c6, .sjbjshare-icon-c7, .sjbjshare-icon-c8, .sjbjshare-icon-jiancai-current, .sjbjshare-icon-jiancai, .sjbjshare-icon-jianli-current, .sjbjshare-icon-jianli, .sjbjshare-icon-liangfang-current, .sjbjshare-icon-liangfang, .sjbjshare-icon-yanfang-current, .sjbjshare-icon-yanfang {
+    background-image: url(../images/sjbjshare-s1894eca117.png);
+    background-repeat: no-repeat
+}
+
+.sjbjshare-icon-01 {
+    background-position: -64px -540px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-02 {
+    background-position: -64px -476px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-03 {
+    background-position: 0 -476px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-04 {
+    background-position: -64px -412px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-05 {
+    background-position: 0 -412px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-06 {
+    background-position: -64px -348px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-07 {
+    background-position: 0 -348px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-08 {
+    background-position: 0 -220px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-09 {
+    background-position: 0 -92px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-10 {
+    background-position: -64px -92px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-11 {
+    background-position: 0 -156px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-12 {
+    background-position: 0 -540px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-13 {
+    background-position: -64px -220px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-14 {
+    background-position: 0 -284px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-15 {
+    background-position: -64px -284px;
+    height: 64px;
+    width: 64px
+}
+
+.sjbjshare-icon-c1 {
+    background-position: 0 -1864px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c2 {
+    background-position: 0 -1684px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c3 {
+    background-position: 0 -1504px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c4 {
+    background-position: 0 -1324px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c5 {
+    background-position: 0 -1144px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c6 {
+    background-position: 0 -964px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c7 {
+    background-position: 0 -784px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-c8 {
+    background-position: 0 -604px;
+    height: 180px;
+    width: 180px
+}
+
+.sjbjshare-icon-jiancai-current {
+    background-position: -92px -46px;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-jiancai {
+    background-position: -110px -156px;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-jianli-current {
+    background-position: 0 -46px;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-jianli {
+    background-position: -46px -46px;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-liangfang-current {
+    background-position: 0 0;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-liangfang {
+    background-position: -46px 0;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-yanfang-current {
+    background-position: -92px 0;
+    height: 46px;
+    width: 46px
+}
+
+.sjbjshare-icon-yanfang {
+    background-position: -64px -156px;
+    height: 46px;
+    width: 46px
+}
+
+.container-fluid .content-detail {
+    position: relative
+}
+
+.container-fluid .content-detail .content-nav-bar {
+    height: 90px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 2
+}
+
+.container-fluid .content-detail .content-nav-bar ul {
+    height: 90px;
+    margin: 0;
+    width: 100%
+}
+
+.container-fluid .content-detail .content-nav-bar ul li {
+    background: #fff;
+    border-left: 1px solid #ddd;
+    float: left;
+    height: 90px;
+    text-align: center;
+    width: 25%;
+    z-index: 1;
+    *width: 24.98%;
+    -moz-box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.3)
+}
+
+.container-fluid .content-detail .content-nav-bar ul li:first-child {
+    border-left: 0
+}
+
+.container-fluid .content-detail .content-nav-bar ul li a {
+    display: inline-block;
+    height: 58px;
+    margin-top: 24px;
+    width: 194px
+}
+
+.container-fluid .content-detail .content-nav-bar ul li a span {
+    display: inline-block;
+    float: left;
+    margin-right: 10px
+}
+
+.container-fluid .content-detail .content-nav-bar ul li a b {
+    font-size: 26px;
+    float: left
+}
+
+.container-fluid .content-detail .content-nav-bar ul .nav-active {
+    background: none;
+    box-shadow: none
+}
+
+.container-fluid .content-detail .content-nav-bar ul .nav-active a {
+    color: #fff
+}
+
+.container-fluid .content-detail .content-nav-bar ul .nav-active a:hover {
+    color: #fff
+}
+
+.container-fluid .content-detail .content-nav-bar ul .design-baojia {
+    width: 300px
+}
+
+.container-fluid .content-detail .content-con {
+    background: url(../images/supervisor_banner.jpg) center top no-repeat;
+    height: 580px;
+    left: 50%;
+    position: relative;
+    top: 0;
+    margin-left: -50%;
+    width: 100%
+}
+
+.container-fluid .content-detail .content-con .construct-container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 1220px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply {
+    background: #fff;
+    padding-bottom: 40px;
+    height: 412px;
+    position: absolute;
+    top: 130px;
+    right: 0;
+    width: 350px;
+    *height: 372px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply h3 {
+    color: #34b094;
+    font-size: 26px;
+    margin-top: 0;
+    padding: 20px 0px 8px;
+    text-align: center
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply p {
+    font-size: 12px;
+    margin-bottom: 12px;
+    padding-left: 30px;
+    padding-right: 20px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply p em {
+    color: #34b094
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form {
+    margin: 10px auto;
+    width: 296px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list {
+    background: #fff;
+    height: 43px;
+    margin-bottom: 22px;
+    position: relative;
+    width: 296px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list input {
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    height: 43px;
+    line-height: 43px;
+    padding-left: 10px;
+    width: 290px;
+    *height: 40px;
+    *line-height: 40px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list input.place-city {
+    padding-top: 5px;
+    padding-left: 10px;
+    *padding-top: 0
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style {
+    width: 325px;
+    *left: 0;
+    *top: 43px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-search {
+    padding: 10px;
+    padding-left: 5px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-search input {
+    border: 1px solid #ddd;
+    height: 30px;
+    width: 160px !important
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-li-style {
+    margin-left: 5px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-li-style .item {
+    font-size: 12px;
+    width: 52px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-li-style .sub-item {
+    border-style: solid;
+    border-width: 1px 0;
+    background-color: #f9f9f9;
+    color: #ddd;
+    display: none;
+    float: left;
+    margin-left: 0;
+    padding-left: 5px;
+    width: 318px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-li-style .sub-item .item span {
+    font-size: 12px;
+    padding: 4px 2px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .row-list .float-map-style .map-search-result {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-top: 0;
+    display: none;
+    left: 52px;
+    margin-left: 5px;
+    max-height: 300px;
+    overflow-x: auto;
+    position: absolute;
+    top: 42px;
+    width: 160px;
+    z-index: 1
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .construct-order {
+    background: #34b094;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    height: 43px;
+    line-height: 43px;
+    margin-top: -10px;
+    text-align: center;
+    width: 296px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .placeholder {
+    font-weight: lighter;
+    left: 10px;
+    top: 12px
+}
+
+.container-fluid .content-detail .content-con .construct-container .construct-apply form .pbottom {
+    font-size: 12px;
+    margin-top: 10px;
+    padding: 0;
+    text-align: left
+}
+
+.input-error {
+    color: #ff6767
+}

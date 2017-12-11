@@ -1,0 +1,56 @@
+@charset "UTF-8";
+section {
+    background:url(../images/bg.png) repeat-x;
+    margin-bottom: 20px;
+    overflow: hidden
+	
+}
+
+.case-wrap {
+    margin: 0 -10px
+}
+
+.case-wrap li {
+    background: #fff;
+    float: left;
+    margin: 0 10px 20px 10px;
+    text-align: center;
+    width: 280px
+}
+
+.case-wrap li img {
+    float: left;
+    height: 210px;
+    width: 280px
+}
+
+.case-wrap li label {
+    color: #999
+}
+
+.case-wrap li label span {
+    border-right: 1px solid #dbdbdb;
+    display: inline-block;
+    height: 10px;
+    margin: 0 5px
+}
+
+.case-list-info {
+    border: 1px solid #dbdbdb;
+    border-top: 0;
+    float: left;
+    line-height: 25px;
+    padding: 10px 0;
+    width: 100%
+}
+
+.case-list-info a {
+    display: block;
+    padding: 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis
+}
+
